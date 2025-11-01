@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The project is Hosted on https://bireshwar67.github.io/Weather-App/
+
 ## Available Scripts
 
 In the project directory, you can run:
